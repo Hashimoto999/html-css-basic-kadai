@@ -15,6 +15,10 @@ h1,p,body{
   margin: 0;
 }
 
+p,a{
+  font-size: 20px;
+}
+
 header{
   margin-bottom: 20px;
   background-color: rgb(244,79,79);
